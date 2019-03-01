@@ -1,0 +1,1 @@
+void clockinit(void);
